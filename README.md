@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ho Hoang Phuong
 - 👀 I’m interested in playing game, listening to music and coding.
-- 🌱 I’m currently a 4th UIT student (Software Engineer)
+- 🌱 I've graduated UIT (Software Engineering)
 - 📫 How to reach me: hoangphuong1516911@gmail.com
 
 <!---
